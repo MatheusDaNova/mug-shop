@@ -1,6 +1,6 @@
 # mug-shop
 
-Aqui está uma lista de requisitos funcionais e não funcionais para um e-commerce:
+
 
 ### Requisitos Funcionais
 
